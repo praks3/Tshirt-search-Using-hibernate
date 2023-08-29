@@ -1,4 +1,4 @@
-# Tdhirt Search Program using Hibernate
+# Tshirt Search Program using Hibernate
 
 This project implements a standalone Tshirt search program in Java using Hibernate, which lists matching T-shirt products based on user criteria. The program reads T-shirt data from CSV files for different companies (Nike, Puma, Adidas) and persists the data in a database. Users can search for T-shirts by specifying color, size, gender, and output preference.
 
